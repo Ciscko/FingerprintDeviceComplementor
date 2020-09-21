@@ -1,0 +1,47 @@
+.thumb{
+    max-width:80px;
+    max-height: 30px;
+}
+body{
+    background-image:linear-gradient(to right, rgb(54, 54, 63), grey, white, rgb(146, 146, 190), rgb(26, 27, 32));
+    }
+    .card1{
+        margin-top:40%;
+        padding-top:10%;
+        padding-bottom:10%;
+    }
+    .norm{
+        background: white;
+        margin-top:5%;
+    }
+    .datas{
+        background: white;
+    }
+    
+div.dataTables_wrapper div.dataTables_filter input {
+	margin-left:30%;
+	display: inline-block;
+	max-width: 59%;
+	font-size: 20px;
+    height:40px;
+    padding-right:30px;
+    	border: solid green 3px;
+}
+.errorlog{
+    color:red;
+    font-family: cursive;
+    font-size: 20px;
+    
+   
+}
+input{
+    border:solid black 1px;
+}
+#fingerID{
+    margin-left: 0.5em;
+	display: inline-block;
+	width: 250px;
+	font-size: 20px;
+	height:50px;
+	border: solid green 3px;
+}

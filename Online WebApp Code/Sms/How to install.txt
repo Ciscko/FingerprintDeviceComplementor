@@ -1,0 +1,7 @@
+The project is installed by copying the contents of Sms folder into the www folder of the host. 
+
+
+Import the mysql database(found in folder named database_file) into sql apache on phpmyadmin.
+
+
+Change the configurations in the config file inside config folder. 
